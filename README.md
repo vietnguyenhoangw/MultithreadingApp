@@ -1,5 +1,5 @@
-# MutithreadingApp
-Mutithread using AyncTask, Thread, Picasso to get an image on internet and add this to ImageView
+# MultithreadingApp
+Multithread using AyncTask, Thread, Picasso to get an image on internet and add this to ImageView
 - Source code: https://github.com/vietnguyenhoangw/MutithreadingApp/blob/master/app/src/main/java/com/example/multithrea/MainActivity.java
 - Docs:https://vntalking.com/asynctask-trong-android.html
 
